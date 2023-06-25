@@ -1,2 +1,2 @@
 # QRGenie
-QRGenie is a QR Code Generator web application built using Django and Python that allows users to generate QR codes quickly and easily. With this application, users can input any text or information they want to encode, and the application will generate a corresponding QR code image.
+The QR Code Generator is a user-friendly web application powered by Django and Python. It enables users to effortlessly create custom QR codes by inputting any desired text or information. With a simple click of the "Generate" button, the application swiftly generates a QR code image using the qrcode library. The generated QR code is then presented to the user in a modal window, allowing them to conveniently download the image or close the modal.
